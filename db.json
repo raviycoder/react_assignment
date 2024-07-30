@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Carolyne",
+      "email": "gidapal563@visignal.com",
+      "password": "kb!6L2RgBNw8unps",
+      "id": 1
+    },
+    {
+      "name": "Carolyne Brown",
+      "email": "teroloh267@grassdev.com",
+      "password": "9H5peb$KXYLiFxHr",
+      "id": 2
+    },
+    {
+      "name": "Carolyne Brown",
+      "email": "teroloh267@grassdev.com",
+      "password": "9H5peb$KXYLiFxHr",
+      "id": 3
+    },
+    {
+      "name": "Carolyne Brown",
+      "email": "teroloh267@grassdev.com",
+      "password": "9H5peb$KXYLiFxHr",
+      "id": 4
+    },
+    {
+      "name": "hero",
+      "email": "teroloh267@gradev.com",
+      "password": "9H5peb$KXYLiFxHr",
+      "id": 5
+    },
+    {
+      "name": "Cae Brown",
+      "email": "teroloh267@grdev.com",
+      "password": "42mSRXKujR3uYsL@",
+      "id": 6
+    }
+  ]
+}
